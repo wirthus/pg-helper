@@ -14,7 +14,7 @@ set PGHOST=localhost
 set PGUSER=postgres
 set PGCLIENTENCODING=UTF8
 
-set DB_DIR=%PGDATABASE%
+set DB_DIR=..\%PGDATABASE%
 set SCHEMA_FILE=%DB_DIR%\schema.sql
 set DATA_DIR=%DB_DIR%\data
 

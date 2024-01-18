@@ -13,5 +13,4 @@ pg_dump ^
 	--data-only ^
 	--disable-triggers ^
 	--no-comments ^
-	--jobs=%JOBS% ^
 	--no-password
