@@ -11,6 +11,7 @@ if "%PGDATABASE%"=="" (
 
 set PGPASSFILE=.pgpass
 set PGHOST=localhost
+set PGPORT=5432
 set PGUSER=postgres
 set PGCLIENTENCODING=UTF8
 
